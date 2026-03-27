@@ -1,1 +1,2 @@
 Git ist eigentlich logisch
+Git ist mega logisch
